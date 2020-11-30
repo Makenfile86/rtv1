@@ -11,6 +11,6 @@ Example of the scene file:
 
 Each object has its coordinates, size, color and position according to possible rotation values. Also there are also the camera values that determine the position of the camera or the "eye".
 
-Out of teh example scene comes this image:
+Out of the example scene comes this image:
 
 ![scene eval09 image:](https://github.com/Makenfile86/rtv1/blob/main/palace.png?raw=true)
